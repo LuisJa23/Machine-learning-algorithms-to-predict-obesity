@@ -2,7 +2,7 @@
 
 Los modelos fueron probados en Windows11 con la versión de Python 3.12
 
-Para el ejercicio se crearon los algortimos usando Python y las librerias proporcionadas por Anaconda, las cuales son:
+Para el ejercicio se uso Python para la creación de los modelos y las librerias proporcionadas por Anaconda, entre las cuales se encuentran:
 
 pandas - Utilizada para la manipulación y análisis de datos.
 
